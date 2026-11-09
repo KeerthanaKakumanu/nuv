@@ -1,0 +1,2 @@
+import { Globe, BrainCircuit, ShoppingCart, GraduationCap, BarChart3, Workflow, ShieldCheck, Bot, BookOpen, Layers3 } from 'lucide-react';
+export const projects = [{slug:'nuvoramind-learning',title:'NuvoraMind Learning',category:'Product',icon:Layers3,description:'NuvoraMind Learning is coming soon.',tags:['Product'],status:'Coming Soon'}];
